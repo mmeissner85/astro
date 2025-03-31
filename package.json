@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@astrojs/mdx": "^4.2.3",
+    "@astrojs/react": "^4.2.3",
     "@tailwindcss/vite": "^4.0.17",
     "@types/canvas-confetti": "^1.9.0",
     "astro": "^5.5.6",
