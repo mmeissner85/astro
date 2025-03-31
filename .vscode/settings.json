@@ -17,5 +17,6 @@
   "editor.codeActionsOnSave": {
 		"quickFix.biome": "explicit",
 		"source.fixAll.biome": "explicit"
-	}
+  },
+  "DockerRun.DisableDockerrc": true
 }
